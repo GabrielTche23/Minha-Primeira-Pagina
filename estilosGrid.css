@@ -1,0 +1,20 @@
+.cabeçalho{
+    max-width: 80%;
+    color: black;
+    background-color: red;
+    text-align: center;
+    margin: 0 auto;
+}
+.caixa{
+    margin: 30px auto;
+    background-color: purple;
+    max-width: 90vw;
+    height: 90vw;
+}
+.conteudo{
+    width: 20vw;
+    background-color: crimson;
+    height: 100px;
+    margin: 2vw 2.50vw;
+    float: left;
+}
