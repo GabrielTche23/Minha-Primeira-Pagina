@@ -1,0 +1,30 @@
+.titulo{
+    background-color: red; 
+    width: 40%;
+    margin-top: 100px;
+    padding: 25px 25px;
+}
+.rotina{
+    background-color: chartreuse;
+    width: 40%;
+    margin-top: 100px;
+    padding: 25px 25px;
+}
+.hobbies{
+    background-color: blue;
+    width: 40%;
+    margin-top: 100px;
+    padding: 25px 25px;
+}
+.artistas{
+    background-color: blue;
+    width: 40%;
+    margin-top: 100px;
+    padding: 25px 25px;
+}
+.viagens{
+    background-color: chartreuse;
+    width: 40%;
+    margin-top: 100px;
+    padding: 25px 25px;
+}
